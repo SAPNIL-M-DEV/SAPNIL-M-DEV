@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SAPNIL</h1>
-<h3 align="center">Hi, I'm an aspiring app developer with experience in Flutter for cross-platform apps and Arduino projects. I enjoy exploring new technologies, solving problems, and contributing to open-source. Always eager to learn and collaborate, I'm passionate about building innovative solutions. Let's create something amazing!</h3>
+<h4 align="center">Hi, I'm an aspiring app developer with experience in building cross-platform mobile apps using Flutter. I also have a background in working on Arduino projects, where I integrate software with hardware. I'm passionate about exploring new technologies, solving problems, and contributing to open-source. Always eager to learn and collaborate, I'm excited to create innovative solutions. Let's build something awesome!</h4>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sapnil-m-dev" alt="sapnil-m-dev" /></a> </p>
 
