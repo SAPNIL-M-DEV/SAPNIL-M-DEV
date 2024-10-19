@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **sapnilm.working@gmail.com**
 
-- ⚡ Fun fact **🚀 Fun fact: When I'm not coding or building cool projects, I'm probably tinkering with gadgets, brewing up coffee experiments, or dreaming up my next big app idea! ☕💡**
+- ⚡ Fun fact **🚀: When I'm not coding or building cool projects, I'm probably tinkering with gadgets, brewing up coffee experiments, or dreaming up my next big app idea! ☕💡**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
